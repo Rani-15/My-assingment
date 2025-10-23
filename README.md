@@ -1,2 +1,0 @@
-# My-assingment
-New project
